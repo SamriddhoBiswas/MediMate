@@ -2,10 +2,7 @@
 
 ![image](public/landing.png)
 
-# An online doctor appointment platform, patients can book video consultations with doctors, doctors can manage availability and earnings, & admins handle verification and payouts.
-
-**MediMate** — Online doctor appointment & telemedicine platform  
-One‑on‑one video consultations, role-based authentication for Patients and Doctors, subscription-based credits, doctor verification, booking flow with real‑time available slots, doctor & admin dashboards, and secure payouts.
+**MediMate** — An online doctor appointment & platform — One‑on‑one video consultations, role-based authentication for Patients and Doctors, subscription-based credits, doctor verification, booking flow with real‑time available slots, doctor & admin dashboards, and secure payouts.
 
 ---
 
