@@ -1,4 +1,5 @@
-<h1 align="center">MediMate 🩺 | Connect with Doctors Anytime, Anywhere 🌍</h1>
+<h1 align="center">MediMate 🩺 <br> Connect with Doctors Anytime, Anywhere 🌍</h1>
 
-# MediMate 🩺 | Connect with Doctors Anytime, Anywhere 🌍
-# Full Stack Doctors Appointment Platform with Next JS, Neon, Tailwind, Vonage, Shadcn UI Tutorial 🔥🔥
+![image](public/landing.png)
+
+# An online doctor appointment platform, patients can book video consultations with doctors, doctors can manage availability and earnings, & admins handle verification and payouts.
